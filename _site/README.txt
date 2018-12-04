@@ -8,8 +8,6 @@ Twenty, a minimal, multi-page responsive site template for HTML5.
 
 john@jprefer.com | @jprefer
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
 
 Credits:
 
